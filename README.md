@@ -61,7 +61,7 @@ in the READMEs provided in each src directory.
 
 ## Set Env
 
-heroku config:set instrument=USD_JPY -a oandapy
 
+## Set requirements
 pip freeze > requirements/base.txt
 pip install -r requirements/base.txt
