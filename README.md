@@ -1,5 +1,9 @@
 # ai
 
+Learning AI 
+From following repo
+https://github.com/oreilly-japan/deep-learning-from-scratch
+
 ## Setup
 
 The following procedure describes how to create a virtualenv appropriate for
