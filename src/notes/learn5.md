@@ -48,15 +48,15 @@
 
 乱数生成する
 
-###　random.choice()
+### random.choice()
 
 リストからのランダム抽出
 
-###　random.randn()
+### random.randn()
 
 任意の個数の乱数を生成
 
-###　random.uniform()
+### random.uniform()
 
 範囲を指定した乱数を生成
 
