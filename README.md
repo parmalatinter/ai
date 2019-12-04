@@ -1,3 +1,5 @@
+![AI](https://github.com/parmalatinter/ai/blob/master/src/img/ai_shigoto_makaseru.png "AI")
+
 # ai
 
 Learning AI 
