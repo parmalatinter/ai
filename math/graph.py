@@ -6,11 +6,9 @@
 import sympy as sym
 from sympy.plotting import plot
 
-# %matplotlib inline
-
 # グラフ
-def Graph(y, tapple):
-    plot(y, tapple)
+def Graph(y, xRange):
+    plot(y, xRange)
 
 def main():
     # 変数として使用する文字を指定する
